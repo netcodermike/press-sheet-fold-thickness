@@ -1,0 +1,21 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "layers": 8,
+    "stocks": [
+      {
+        "paper": "Text",
+        "stack_mm": 0.8,
+        "last_fit": 3
+      },
+      {
+        "paper": "Cover",
+        "stack_mm": 1.44,
+        "last_fit": 2
+      }
+    ]
+  }
+}

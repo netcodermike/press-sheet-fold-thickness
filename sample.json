@@ -1,0 +1,14 @@
+{
+  "folds": 3,
+  "clearance_mm": 0.9,
+  "stocks": [
+    {
+      "paper": "Text",
+      "microns": 100
+    },
+    {
+      "paper": "Cover",
+      "microns": 180
+    }
+  ]
+}
